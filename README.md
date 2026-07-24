@@ -313,7 +313,7 @@ The dashboards help businesses:
 
 Add your Tableau Public link here:
 
-https://public.tableau.com/views/YourDashboard
+[https://public.tableau.com/views/YourDashboard](https://public.tableau.com/app/profile/ansh.agraekar/viz/Retail_Sales_Customer_Analytics/ProjectOverview)
 
 ---
 
